@@ -1,2 +1,2 @@
 # teste
-teste de réféentiel
+teste de référentiel
